@@ -1,2 +1,2 @@
 # HDD-activity-scroll-lock-linux
-Blinks the scroll lock led on keyboard on composite HDD activity (made by GPT)
+Blinks the scroll lock led on keyboard on composite HDD activity
