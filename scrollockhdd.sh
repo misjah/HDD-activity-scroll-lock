@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Check interval seconds
-CHECKINTERVAL=0.5
+CHECKINTERVAL=0.1
 
 # console
 CONSOLE=/dev/console
@@ -43,4 +43,3 @@ while [ 1 ] ; do
   fi
   OLD=$NEW  
 done
-
